@@ -1,4 +1,3 @@
-
 BASE := ghcr.io/fillin-inc/middleman
 TAG := 3.0.2-slim-buster
 REPO := ${BASE}:${TAG}
